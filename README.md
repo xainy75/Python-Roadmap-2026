@@ -2,4 +2,4 @@
 My daily progress, learning, and projects for Python learning
 
 ## 🏆 Certifications
-- [Python for Everybody: Course 1 Certificate](./certificates/python_basiccertificate.pdf)
+- [Python for Everybody: Course 1 Certificate](./certificates/Screenshot 2026-02-02 183852.png)
