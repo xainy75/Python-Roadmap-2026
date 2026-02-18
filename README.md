@@ -21,6 +21,20 @@ This is a living document that grows with my knowledge and skills, serving as bo
 
 ---
 
+## 📘 Best Practices & Guidelines
+
+### [Python Naming Conventions Guide](NAMING_CONVENTIONS.md)
+Learn how to write clean, readable code with proper variable and function names. This comprehensive guide covers:
+- Variable naming best practices
+- Function naming conventions
+- Class and constant naming
+- Real-world examples and comparisons
+- Common mistakes to avoid
+
+👉 **Check out the [examples/naming_examples](examples/naming_examples/)** directory for practical code demonstrations!
+
+---
+
 ## 🎯 Learning Goals
 
 - ✅ **Master Python Fundamentals** - Variables, data types, control structures
