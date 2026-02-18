@@ -76,7 +76,7 @@ data = {"key1": "value1"}
 
 # ✅ Good
 students = ["Alice", "Bob", "Charlie"]
-prime_numbers = [1, 2, 3, 4, 5]
+sample_numbers = [1, 2, 3, 4, 5]
 user_preferences = {"key1": "value1"}
 active_connections = set()
 ```
@@ -306,7 +306,7 @@ class UserManager:
    # ✅ Good
    width = 10
    height = 20
-   area = width + height
+   area = width * height
    ```
 
 2. **Abbreviations**
