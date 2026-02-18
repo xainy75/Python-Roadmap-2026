@@ -54,7 +54,7 @@ def calculate_rectangle_area():
     """Calculate the area of a rectangle."""
     width = 10
     height = 20
-    area = width + height
+    area = width * height
     return area
 
 # ✅ GOOD: Function name clearly describes the action
